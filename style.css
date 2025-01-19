@@ -223,5 +223,10 @@ header nav{
         justify-items: center;
         margin-top: 30px;
     }
-
+    .items-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .btn{
+        margin-left: 150px;
+    }
 }
